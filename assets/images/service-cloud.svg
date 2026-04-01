@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+<rect width="1200" height="700" fill="#faf6ef"/>
+<path d="M260 430c0-80 63-145 142-150 28-69 95-118 173-118 82 0 152 55 177 131 8-1 16-2 24-2 84 0 152 66 152 148s-68 149-152 149H401c-78 0-141-63-141-140 0-7 0-12 1-18Z" fill="#d9edf5"/>
+<rect x="300" y="380" width="160" height="110" rx="18" fill="#fff"/>
+<rect x="520" y="340" width="160" height="110" rx="18" fill="#fff"/>
+<rect x="740" y="390" width="160" height="110" rx="18" fill="#fff"/>
+<line x1="460" y1="435" x2="520" y2="395" stroke="#2f6f8f" stroke-width="8"/>
+<line x1="680" y1="395" x2="740" y2="445" stroke="#2f6f8f" stroke-width="8"/>
+<text x="300" y="150" font-family="Arial" font-size="56" font-weight="700" fill="#1f1a17">Microsoft 365 • Intune • Defender</text>
+<text x="300" y="210" font-family="Arial" font-size="28" fill="#5b4636">Built for security, backup, compliance, and steady day-to-day operations</text>
+</svg>
