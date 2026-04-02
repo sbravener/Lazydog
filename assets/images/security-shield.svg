@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
-<rect width="1200" height="700" fill="#f7efe4"/>
-<path d="M600 120l220 80v160c0 130-90 240-220 300-130-60-220-170-220-300V200l220-80Z" fill="#2f6f8f"/>
-<path d="M600 170l165 60v127c0 99-64 184-165 240-101-56-165-141-165-240V230l165-60Z" fill="#fff"/>
-<path d="M520 370l55 55 115-125" fill="none" stroke="#2f6b4f" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="260" y="610" font-family="Arial" font-size="54" font-weight="700" fill="#1f1a17">Security and compliance support that stays practical</text>
-</svg>
