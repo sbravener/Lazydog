@@ -61,36 +61,8 @@ Lazy Dog Computing Blog</h1>
 <p>You’ll find helpful insights, explanations, and guidance that relate to real-world business environments. We focus on making technology easier to understand and more manageable without unnecessary complexity.</p>
 
     <p class="lead">Thirty days of publish-ready blog content for local , trust building, and internal linking.</p>
-        </div>
-    </div>
   </div>
 </section>
-<section>
-  <div class="container">
-    <div class="kicker">Featured Topics</div>
-    <h2>Helpful technology topics for local businesses</h2>
-    <p class="lead">We cover practical information that matters to businesses in Lexington, Thomasville, Salisbury, High Point, and the surrounding area. The goal is simple: make technology easier to understand and easier to manage.</p>
-    <div class="featured-topics-grid">
-      <div class="topic-card">
-        <h3>Microsoft 365</h3>
-        <p>Guidance on tenant setup, identity, email, Teams, SharePoint, and day-to-day cloud administration.</p>
-      </div>
-      <div class="topic-card">
-        <h3>Security</h3>
-        <p>Clear explanations of cybersecurity basics, Defender, device protection, and common business risks.</p>
-      </div>
-      <div class="topic-card">
-        <h3>Backup & Recovery</h3>
-        <p>Practical information about backups, recovery planning, downtime, and business continuity.</p>
-      </div>
-      <div class="topic-card">
-        <h3>General Technology</h3>
-        <p>Useful insights on everyday IT topics that affect the local business community.</p>
-      </div>
-    </div>
-  </div>
-</section>
-
 
 <section>
   <div class="container grid-2">
@@ -113,12 +85,7 @@ Lazy Dog Computing Blog</h1>
 </section>
 
 <section class="band">
-  <div class="container">
-    <div class="recent-insights-wrap">
-      <div class="kicker">Recent Local Insights</div>
-      <h2>Recent posts and practical takeaways</h2>
-      <p class="lead">Browse recent articles for helpful explanations, technical guidance, and business-friendly context around IT and related technology topics.</p>
-      <div class="blog-list">
+  <div class="container blog-list">
     
 <article>
   <h3><a href="post-01.html">Why most Lexington businesses are underusing Microsoft 365 security</a></h3>
@@ -294,34 +261,6 @@ Lazy Dog Computing Blog</h1>
       <p>&copy; <span id="year"></span> Lazy Dog Computing</p>
     </div>
   </div>
-
-<section>
-  <div class="container">
-    <div class="newsletter-card">
-      <h2>Stay in the loop on useful technology topics</h2>
-      <p>If you’d like occasional updates with practical information for the local business community, you can request to be added to our list. We’ll focus on helpful topics like Microsoft 365, security, backup, and general technology issues that affect everyday operations.</p>
-      <form action="mailto:info@lazydogcomputing.com" method="post" enctype="text/plain">
-        <label>Name
-          <input type="text" name="Name" required>
-        </label>
-        <label>Business Name
-          <input type="text" name="Business Name">
-        </label>
-        <label>Email
-          <input type="email" name="Email" required>
-        </label>
-        <label>What topics are you most interested in?
-          <input type="text" name="Topics" placeholder="Microsoft 365, security, backup, general technology, etc.">
-        </label>
-        <input type="hidden" name="Request Type" value="Newsletter Signup">
-        <button class="btn" type="submit">Request Updates</button>
-      </form>
-      <p class="small-note">This form is tied to your lead system through your contact email. For fully automated signups, connect it later to Formspree, your CRM, or a mailing platform.</p>
-      <p class="small-note"><strong>Phone:</strong> 336-313-9727</p>
-    </div>
-  </div>
-</section>
-
 </footer>
 
 <script src="../js/site.js"></script>
