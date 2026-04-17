@@ -1,0 +1,96 @@
+LAZY DOG COMPUTING WEBSITE IMPLEMENTATION GUIDE
+
+PACKAGE CONTENTS
+This package contains the full website ready for upload, including:
+- homepage
+- services page
+- contact page
+- blog index and blog articles
+- vertical pages
+- service-area landing pages
+- assets folder
+- sitemap.xml
+- robots.txt
+- tracking code already embedded
+
+TRACKING INCLUDED
+The site already includes:
+- Google Tag Manager: GTM-M525FFRJ
+- Google Analytics 4: G-NG2PEF5DWV
+- Microsoft Clarity: w5yaevmu4f
+
+HOW TO IMPLEMENT
+
+OPTION 1: UPLOAD TO GITHUB
+1. Unzip this package on your computer.
+2. Create a new GitHub repository or open your existing website repository.
+3. Upload all extracted files and folders to the repository root.
+4. Keep the folder structure exactly as provided.
+5. Commit and push your changes.
+6. If using GitHub Pages:
+   - go to repository Settings
+   - open Pages
+   - choose the correct branch and root folder
+   - save settings
+7. Wait for GitHub Pages to publish the site.
+
+OPTION 2: UPLOAD TO A WEB HOST
+1. Unzip this package on your computer.
+2. Open your hosting control panel or FTP client.
+3. Upload all files and folders to the website root directory, such as:
+   - public_html
+   - www
+   - htdocs
+4. Do not place the files inside an extra nested folder unless your host requires it.
+5. Confirm that index.html sits in the root of the live site.
+
+IMPORTANT FILES
+- index.html = homepage
+- services.html = services page
+- contact.html = contact page
+- /blog = blog pages
+- /verticals = industry pages
+- /service-areas = local landing pages
+- /assets = CSS, JS, and images
+- sitemap.xml = search engine sitemap
+- robots.txt = crawler instructions
+
+AFTER UPLOAD
+1. Visit the homepage and test navigation.
+2. Open several blog posts and service-area pages.
+3. Confirm forms load and submit correctly.
+4. Confirm styling and images load properly.
+5. Visit:
+   - /sitemap.xml
+   - /robots.txt
+
+VERIFY TRACKING
+After publishing, verify:
+1. GTM loads on all pages.
+2. GA4 receives page views.
+3. Clarity starts recording sessions.
+
+SEARCH ENGINE SETUP
+1. Open Google Search Console.
+2. Add your domain property.
+3. Submit:
+   https://www.lazydogcomputing.com/sitemap.xml
+
+RECOMMENDED POST-LAUNCH CHECKS
+- test contact form
+- test blog links
+- test mobile view
+- test page speed
+- confirm canonical URLs
+- confirm HTTPS is active
+
+HOW TO ADD NEW BLOG POSTS LATER
+1. Create a new HTML file inside /blog
+2. Add the new post link to /blog/index.html
+3. Add the new page to sitemap.xml
+4. Upload the updated files
+
+NOTES
+- Keep filenames and folders unchanged unless you are intentionally redesigning the structure.
+- If you replace tracking IDs later, do it consistently across all pages.
+- If you add new location pages, remember to update the sitemap and internal links.
