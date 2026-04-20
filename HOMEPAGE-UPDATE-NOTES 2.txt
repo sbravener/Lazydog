@@ -1,0 +1,1 @@
+Removed the service-area cards from the homepage only. Left the service-area landing page and all location pages intact.
