@@ -1,0 +1,14 @@
+{
+  "site_name": "Lazy Dog Computing",
+  "custom_domain": "www.lazydogcomputing.com",
+  "github_pages_ready": true,
+  "includes": [
+    ".nojekyll",
+    "CNAME",
+    "404.html",
+    ".github/workflows/pages.yml",
+    "README.md",
+    "robots.txt",
+    "sitemap.xml"
+  ]
+}
