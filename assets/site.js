@@ -1,0 +1,1 @@
+document.addEventListener('click',e=>{const b=e.target.closest('[data-filter]');if(!b)return;const f=b.dataset.filter;document.querySelectorAll('.article-card').forEach(c=>{c.dataset.hide=(f!=='all'&&c.dataset.cat!==f)?'true':'false'})});
