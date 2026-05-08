@@ -59,7 +59,7 @@ def post_template(title: str, excerpt: str, body: str) -> str:
   <section class="page-hero"><div class="container"><span class="eyebrow">Business Technology Blog</span><h2>{html.escape(title)}</h2><p class="section-copy">{html.escape(excerpt)}</p></div></section>
   <section><div class="container"><article class="article-wrap">{paras}</article></div></section>
 </main>
-<footer class="footer"><div class="container footer-grid"><div><h3>Lazy Dog Computing</h3><p class="muted">Simple, secure, reliable IT for local businesses with a Microsoft 365, security, backup, and compliance focus.</p></div><div><h3>Quick Links</h3><p><a href="../services.html">Managed IT Services</a><br/><a href="index.html">Business Technology Blog</a><br/><a href="../contact.html">Contact Us</a></p><p class="muted">205 Fairway Dr.<br/>Lexington, NC 27292<br/>336-313-9727</p></div></div></footer>
+<footer class="footer"><div class="container footer-grid"><div><h3>Lazy Dog Computing</h3><p class="muted">Simple, secure, reliable IT for local businesses with a Microsoft 365, security, backup, and compliance focus.</p></div><div><h3>Quick Links</h3><p><a href="../services.html">Managed IT Services</a><br/><a href="index.html">Business Technology Blog</a><br/><a href="../contact.html">Contact Us</a></p><p class="muted"><br/>Lexington, NC 27292<br/>336-313-9727</p></div></div></footer>
 <script src="../assets/js/main.js"></script>
 </body>
 </html>"""
